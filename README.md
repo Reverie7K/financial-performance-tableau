@@ -5,7 +5,7 @@ A five-dashboard interactive Tableau story mining a global retail sales dataset 
 > 📄 **Full write-up:** [`report/Business_Performance_Analysis_Report.md`](report/Business_Performance_Analysis_Report.md)
 > 📈 **Tableau workbook:** `230722765.twbx` (open with [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader))
 
-<img src="report/assets/dashboard1_overall_performance.png" alt="Dashboard 1 preview" width="160"> <img src="report/assets/dashboard3_sales_profitability_drivers.png" alt="Dashboard 3 preview" width="160"> <img src="report/assets/dashboard5_strategic_risks_opportunities.png" alt="Dashboard 5 preview" width="160">
+<img src="report/assets/dashboard1_overall_performance.png" alt="Dashboard 1 preview" width="260"> <img src="report/assets/dashboard3_sales_profitability_drivers.png" alt="Dashboard 3 preview" width="260"> <img src="report/assets/dashboard5_strategic_risks_opportunities.png" alt="Dashboard 5 preview" width="260">
 
 ---
 
@@ -27,8 +27,6 @@ Using a global retail "Superstore"-style dataset (**~51,000 order-line records**
     ├── Business_Performance_Analysis_Report.md       ← full formatted write-up
     └── assets/                                       ← dashboard preview thumbnails
 ```
-
-> ⚠️ The preview thumbnails in `report/assets/` are the low-resolution (192×192) cache images Tableau embeds in the workbook file itself — good enough to identify each dashboard at a glance, but not a substitute for opening the actual `.twbx`. For a crisper README, consider exporting full-resolution images per dashboard (**Dashboard → Export Image...** in Tableau) and swapping them in.
 
 ---
 

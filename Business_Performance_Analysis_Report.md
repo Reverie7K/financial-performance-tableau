@@ -40,7 +40,7 @@ In today's retail landscape, it is imperative for companies to keep abreast of n
 
 ## Dashboard 1: Overall Business Performance
 
-<img src="assets/dashboard1_overall_performance.png" alt="Dashboard 1: Overall Business Performance" width="260">
+<img src="assets/dashboard1_overall_performance.png" alt="Dashboard 1: Overall Business Performance" width="700">
 
 This dashboard establishes a foundation for understanding overall business health, visualising the company's global sales footprint and how performance changes over time.
 
@@ -54,7 +54,7 @@ The Category Performance chart makes this divergence even clearer. Filtering sal
 
 ## Dashboard 2: Customer Analytics
 
-<img src="assets/dashboard2_customer_analytics.png" alt="Dashboard 2: Customer Analytics" width="260">
+<img src="assets/dashboard2_customer_analytics.png" alt="Dashboard 2: Customer Analytics" width="700">
 
 Identifying the buyer profile is a critical step in shaping sales strategy. This dashboard breaks down the customer base to identify where value is concentrated.
 
@@ -68,7 +68,7 @@ This is reinforced by the **Customer Value scatter plot**. While a large group o
 
 ## Dashboard 3: Sales & Profitability Drivers
 
-<img src="assets/dashboard3_sales_profitability_drivers.png" alt="Dashboard 3: Sales & Profitability Drivers" width="260">
+<img src="assets/dashboard3_sales_profitability_drivers.png" alt="Dashboard 3: Sales & Profitability Drivers" width="700">
 
 To pinpoint exactly why certain products and customers are losing money, this dashboard examines unit economics — specifically, the effects of pricing and fulfilment costs.
 
@@ -82,7 +82,7 @@ Finally, the **Shipping Economics** view shows that expedited shipping options (
 
 ## Dashboard 4: Marketing & Promotional Efficiency
 
-<img src="assets/dashboard4_marketing_promotional_efficiency.png" alt="Dashboard 4: Marketing & Promotional Efficiency" width="260">
+<img src="assets/dashboard4_marketing_promotional_efficiency.png" alt="Dashboard 4: Marketing & Promotional Efficiency" width="700">
 
 As direct advertising spend data is not available, this dashboard instead evaluates promotional effectiveness indirectly — through seasonality, discounting patterns, and shipping preferences.
 
@@ -96,7 +96,7 @@ Adding to this, the **Delivery Efficiency** stacked bar chart shows that most ma
 
 ## Dashboard 5: Strategic Risks & Opportunities
 
-<img src="assets/dashboard5_strategic_risks_opportunities.png" alt="Dashboard 5: Strategic Risks & Opportunities" width="260">
+<img src="assets/dashboard5_strategic_risks_opportunities.png" alt="Dashboard 5: Strategic Risks & Opportunities" width="700">
 
 The final dashboard brings these insights together into a single strategic view, spotlighting immediate risks alongside the best opportunities for future growth.
 
