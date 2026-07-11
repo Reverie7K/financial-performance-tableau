@@ -1,9 +1,9 @@
-# 📊 Global Superstore: Business Performance Analysis (Tableau)
+#  Global Superstore: Business Performance Analysis (Tableau)
 
 A five-dashboard interactive Tableau story mining a global retail sales dataset for the drivers behind a widening **sales-vs-profit gap** — built for a senior-management audience, with an accompanying strategic report.
 
 > 📄 **Full write-up:** [`report/Business_Performance_Analysis_Report.md`](report/Business_Performance_Analysis_Report.md)
-> 📈 **Tableau workbook:** `230722765.twbx` (open with [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader))
+> 📈 **Tableau workbook:** `Retail_Analysis_Story.twbx` (open with [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Reader](https://www.tableau.com/products/reader))
 
 <img src="report/assets/dashboard1_overall_performance.png" alt="Dashboard 1 preview" width="260"> <img src="report/assets/dashboard3_sales_profitability_drivers.png" alt="Dashboard 3 preview" width="260"> <img src="report/assets/dashboard5_strategic_risks_opportunities.png" alt="Dashboard 5 preview" width="260">
 
@@ -22,7 +22,7 @@ Using a global retail "Superstore"-style dataset (**~51,000 order-line records**
 ```
 .
 ├── README.md
-├── 230722765.twbx                                    ← Tableau packaged workbook (place here)
+├── 230722765.twbx                                    ← Tableau packaged workbook 
 └── report/
     ├── Business_Performance_Analysis_Report.md       ← full formatted write-up
     └── assets/                                       ← dashboard preview thumbnails
@@ -71,7 +71,7 @@ Full supporting evidence, dashboard-by-dashboard, is in the [full report](report
 ## Opening the Workbook
 
 1. Install [Tableau Desktop](https://www.tableau.com/products/desktop) (or the free [Tableau Reader](https://www.tableau.com/products/reader) for view-only access).
-2. Open `230722765.twbx` — the packaged workbook bundles the dataset, so no separate data connection is required.
+2. Open `Retail_Analysis_Story.twbx` — the packaged workbook bundles the dataset, so no separate data connection is required.
 3. Navigate the **Story** tab at the top to step through all five dashboards in sequence.
 
 ---
@@ -80,4 +80,4 @@ Full supporting evidence, dashboard-by-dashboard, is in the [full report](report
 
 Completed as a data visualisation / business intelligence coursework project (dataset reference: `ST2187_coursework_dataset`), submitted as a Tableau story with an accompanying strategic report for a simulated senior-management audience.
 
-*Author: Kennith Vazhappilly Babu*
+*Author: Kennith Babu*
